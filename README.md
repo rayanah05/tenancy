@@ -1,9 +1,8 @@
-# Tenancy – front-end skeleton
+# Tenancy: front-end skeleton
 
-Rent tracking and maintenance requests for landlords and tenants in Bahrain.
-COSC 484/484L Web Engineering, Fall 2026 – Progress Report 2.
+Rent tracking and maintenance requests for landlords and tenants in Bahrain for COSC 484/484L Web Engineering Course, Fall 2026 
 
-**Team:** Rayana Juman (A01372) · Shahd Alharbi (A00353)
+**Team:** Rayana Juman & Shahd Alharbi
 
 ## What's here
 
@@ -16,7 +15,7 @@ The main pages from the Figma prototype, built in React with sample data (no bac
 | Tenant mode | Dashboard, Accept invite, My lease with tabs: Overview, Pay rent, Proof submitted, History, Receipts, Requests, New request, Request status |
 | Shared | Settings, Profile, Notifications, 404 |
 
-One account can be both landlord and tenant; the Landlord | Tenant switch changes mode.
+One account can be both landlord and tenant, where the Landlord / Tenant switch changes mode.
 Every page works in English and Arabic (right to left).
 
 ## Stack
